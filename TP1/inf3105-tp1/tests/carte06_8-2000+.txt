@@ -1,0 +1,9 @@
+3.16852e+06
+Parc_La_Fontaine
+Parc_du_Pelican
+Parc_Pere_Marquette
+Parc_Etienne-Desmarteau
+Parc_Maisonneuve
+Olympic_Park
+Square_Viger
+Vieux-Port

@@ -1,0 +1,5 @@
+*.o
+*.txt
+*.zip
+*.bz2
+.vscode/

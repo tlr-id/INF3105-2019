@@ -1,0 +1,71 @@
+#Machine :  ok
+#CPU : Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+#Date début : 20191013_120048
+#Limite de unlimited secondes par test
+#
+Taille des fichiers source :
+   57   188  1228 point.cpp
+   57   181  1424 polygone.cpp
+  332  1357 12431 tp1.cpp
+   41   129   889 vecteur.cpp
+   37    81   679 point.h
+   43   103  1004 polygone.h
+  205   509  5089 tableau.h
+   36    65   607 vecteur.h
+  808  2613 23351 total
+#
+Carte    	Taille	Args	Superficie	Opt?	CPU	Mém.(k)
+carte00.txt	3	1	125	OK	0.00	3584k
+carte00.txt	3	2	225	OK	0.00	3536k
+carte00.txt	3	2-100	225	OK	0.00	3536k
+carte00.txt	3	2-50	225	OK	0.00	3548k
+carte00.txt	3	2-10	150	OK	0.00	3532k
+carte00.txt	3	2-1	125	OK	0.00	3580k
+carte00.txt	3	3	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3488k
+carte01.txt	3	1	125	OK	0.00	3536k
+carte01.txt	3	2	170	OK	0.00	3564k
+carte01.txt	3	2-1	165	OK	0.00	3596k
+carte02.txt	26	1	46010	OK	0.00	3580k
+carte02.txt	26	2	64460	OK	0.02	3604k
+carte02.txt	26	2-500	62840	OK	0.02	3512k
+carte02.txt	26	2-10	46010	OK	0.02	3508k
+carte02.txt	26	3	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3560k
+carte02.txt	26	3-100	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3500k
+carte02.txt	26	4-200	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3488k
+carte02.txt	26	5-200	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3440k
+carte03.txt	20	1	6560	OK	0.00	3632k
+carte03.txt	20	2	13120	OK	15.64	3668k
+carte03.txt	20	2-500	13120	OK	18.27	3752k
+carte03.txt	20	2-10	6560	OK	15.90	3688k
+carte03.txt	20	3	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3628k
+carte03.txt	20	3-100	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3672k
+carte03.txt	20	4-200	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3624k
+carte03.txt	20	5-200	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3660k
+carte04.txt	10	1	1.002e+06	OK	0.01	4048k
+carte04.txt	10	2-500		Echec	30.44	4316k
+carte05.txt	50	1	1.6008e+07	OK	0.15	16032k
+carte05.txt	50	2-500		Echec	32.16	22732k
+carte06.txt	105	1	838503	OK	0.00	3764k
+carte06.txt	105	2-5000	1.55816e+06	OK	18.78	3712k
+carte06.txt	105	3-4000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3548k
+carte06.txt	105	4-3000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3592k
+carte06.txt	105	5-2000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3564k
+carte06.txt	105	7-2000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3556k
+carte06.txt	105	8-2000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3596k
+carte06.txt	105	9-2000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3664k
+carte06.txt	105	10-2000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3580k
+carte06.txt	105	11-2000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3548k
+carte06.txt	105	12-2000	Ce programme ne supporte pas 3 régions ou plus!	?	0.00	3576k
+carte07.txt	496	1	2.44535e+06	OK	0.00	3904k
+carte07.txt	496	2		Echec	79.98	3960k
+carte07.txt	496	2-10		Echec	79.99	3968k
+carte07.txt	496	3-2000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3704k
+carte07.txt	496	4-10	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3736k
+carte07.txt	496	4-100	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3744k
+carte08.txt	55	1	1.3125e+06	OK	0.01	3812k
+carte08.txt	55	2-10		Echec	79.99	3764k
+carte08.txt	55	3-10	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3620k
+carte08.txt	55	3-500	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3616k
+carte08.txt	55	4-10	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3664k
+carte08.txt	55	4-500	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3732k
+carte08.txt	55	4-20000	Ce programme ne supporte pas 3 régions ou plus!	Echec	0.00	3628k
